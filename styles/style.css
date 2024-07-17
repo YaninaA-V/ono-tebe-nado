@@ -49,7 +49,7 @@ header {
 .header__address {
     text-decoration: none;
     margin-top: 2px;
-    line-height: 24.3px;           
+    line-height: 24px;           
 }
 .address__contacts {
     text-decoration: underline;
@@ -261,14 +261,14 @@ header {
 .footer {
     display: flex;
     justify-content: space-between;
-    padding: 0 50px 88px 25px;
+    padding: 0 50px 68px 25px;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     color: #000;    
 }
 .footer__menu {
     text-align: center;
-    text-underline-offset: 3px; 
+    text-underline-offset: 3px;
     padding-right: 15px;
 }
 .footer__menu-link_active {
@@ -294,7 +294,7 @@ header {
     display: flex;
     text-align: end;
     list-style: none;
-    column-gap: 46px;
+    column-gap: 47px;
     padding-right: 3px;    
 }
  .footer__social-icon {
