@@ -11,16 +11,16 @@ header {
     display: flex;
     width: 148px;
     height: 105px;
-    padding-left: 40px;
+    padding-left: 45px;
     margin-right: 225px;
 }
 .header__links-list {
     display: flex;
     list-style: circle;
     padding-top: 44px;
-    padding-left: 26px;
-    column-gap: 33.5px;        
+    padding-left: 26px;            
     text-underline-offset: 4px;
+    column-gap: 32px;
 }
 .header__links-list-item_no-bullit {
     list-style: none;
@@ -199,13 +199,13 @@ header {
     text-underline-offset: 3px;
 }
 .card__text {
+    position: absolute;
     font-family: "Raleway", sans-serif;
     font-size: 20px;
     text-decoration: none;
     color: #fff;
     text-align: left;
-    padding: 0px 40px 48px 40px;
-    position: absolute;    
+    padding: 0px 40px 48px 40px;   
     bottom: 0;
 }
 .lots__look-more-link {
@@ -230,8 +230,8 @@ header {
     display: flex;
     background-color: #000;
     border-radius: 100%;
+    width: 240px;
     height: 240px;
-    width: 240px;     
     justify-content: space-around;
     margin-top: 38px;
     margin-left: 48px;
