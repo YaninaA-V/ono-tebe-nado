@@ -86,7 +86,7 @@ header {
     inset: 1;
 }
 .aligned-text {
-    text-align: start;    
+    text-align: start;
 }
 .aligned-text_center {
     text-align: center;
@@ -298,5 +298,5 @@ header {
 }
  .footer__social-icon {
     width: 48px;
-    height: 48px; 
+    height: 48px;
 } 
